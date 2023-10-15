@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @promoth.
-- 👀 I’m interested in coding platforms and machine learning.
-- 🌱 I’m currently learning java and web development.
-- 💞️ I’m looking to collaborate on machine learning projects.
+- 👀 I’m interested in learning new innovative technologies.
+- 🌱 I’m currently learning cloud computing.
+- 💞️ I’m looking to collaborate on cloud related projects.
 - 📫 How to reach me @promoth vijay in linked ln.
 
 <!---
